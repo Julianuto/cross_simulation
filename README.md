@@ -16,5 +16,5 @@ It is necessary to have the sumo tool installed, which can be obtained from the 
 The files contained in this git should be saved in the sumo-doc/tutorial/traci_tls folder.
 
 It is necessary to declare the variable SUMO_HOME as follows:
-    SUMO_HOME=/usr/share/sumo
-    export SUMO_HOME=/usr/share/sumo
+1. SUMO_HOME=/usr/share/sumo
+2. export SUMO_HOME=/usr/share/sumo
