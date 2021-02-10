@@ -13,6 +13,9 @@ Python code to run the sumo simulation with the recommendation of traffic light 
 # Notes:
 It is necessary to have the sumo tool installed, which can be obtained from the following link https://sumo.dlr.de/docs/Installing.html.
 
+The exercise is based on the following link from SUMO's web site
+https://sumo.dlr.de/docs/Simulation/Traffic_Lights.html
+
 The files contained in this git should be saved in the sumo-doc/tutorial/traci_tls folder.
 
 It is necessary to declare the variable SUMO_HOME as follows:
