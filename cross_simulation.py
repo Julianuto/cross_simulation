@@ -174,7 +174,7 @@ if(q_table_training==1):
     for i in range(0, 300):
       state = random.randint(0, 255)
       epochs = 0
-      while (epochs < 1200):
+      while (epochs < 10000):
              # sometimes action will be the position where the maximum value of the matrix Q is in the row with the state number
              # will again be a random value, the decision to assign action will depend on the epsilon value
              if random.uniform(0, 1) < epsilon:
